@@ -9,6 +9,9 @@ const theBeatlesPlay = (musicians, instruments) => {
   return newArr;
 };
 
-const johnLennonFacts = () => {
-  
+const johnLennonFacts = (facts) => {
+  arrFacts = [];
+  while (i < facts.length) {
+    arr
+  }
 }
