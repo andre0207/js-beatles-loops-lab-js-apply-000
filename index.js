@@ -13,7 +13,7 @@ const johnLennonFacts = (array) => {
   let i = 0
   arrFacts = [];
   while (i < array.length) {
-    arrFacts.push(`${facts[i]}!!!`)
+    arrFacts.push(`${array[i]}!!!`)
     i++
   }
   
