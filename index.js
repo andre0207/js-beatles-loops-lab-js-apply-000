@@ -9,7 +9,7 @@ const theBeatlesPlay = (musicians, instruments) => {
   return newArr;
 };
 
-const johnLennonFacts = (facts) => {
+const johnLennonFacts = (Ar) => {
   let i = 0
   arrFacts = [];
   while (i < facts.length) {
