@@ -25,6 +25,7 @@ const iLoveTheBeatles = (num) => {
   let i = 0
   do {
     num++
+    
     beatles.push('I love the Beatles!')
 } while (num <= 8) {
   
