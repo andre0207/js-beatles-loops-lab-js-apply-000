@@ -20,13 +20,13 @@ const johnLennonFacts = (facts) => {
   return arrFacts
 }
 
-const iLoveTheBeatles = () => {
+const iLoveTheBeatles = (beat) => {
   let beatles = [];
   let i = 0
   do {
     beatles.push('I love the Beatles!')
-} while (i < 15) {
-  i++
+} while (beat < 15) {
+  beat++
 }
 
 return beatles
