@@ -19,3 +19,7 @@ const johnLennonFacts = (facts) => {
   
   return arrFacts
 }
+
+const iLoveTheBeatles = () => {
+  
+}
