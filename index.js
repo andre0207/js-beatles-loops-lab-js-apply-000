@@ -9,11 +9,11 @@ const theBeatlesPlay = (musicians, instruments) => {
   return newArr;
 };
 
-const johnLennonFacts = (array) => {
+const johnLennonFacts = (facts) => {
   let i = 0
   arrFacts = [];
-  while (i < array.length) {
-    arrFacts.push(`${array[i]}!!!`)
+  while (i < facts.length) {
+    arrFacts.push(`${facts[i]}!!!`)
     i++
   }
   
