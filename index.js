@@ -9,3 +9,6 @@ const theBeatlesPlay = (musicians, instruments) => {
   return newArr;
 };
 
+const johnLennonFacts = () => {
+  
+}
