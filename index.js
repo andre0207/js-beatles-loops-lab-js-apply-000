@@ -20,7 +20,7 @@ const johnLennonFacts = (facts) => {
   return arrFacts
 }
 
-const iLoveTheBeatles = (beat) => {
+const iLoveTheBeatles = (num) => {
   let beatles = [];
   let i = 0
   do {
