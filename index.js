@@ -7,4 +7,5 @@ const theBeatlesPlay = (musicians, instruments) => {
   }
   
   return newArr;
-}
+};
+
