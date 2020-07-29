@@ -22,4 +22,9 @@ const johnLennonFacts = (facts) => {
 
 const iLoveTheBeatles = () => {
   
+  do {
+  cupsAdded++
+} while ( cupsOfSugarNeeded > cupsAdded);
+
+console.log(cupsAdded)
 }
