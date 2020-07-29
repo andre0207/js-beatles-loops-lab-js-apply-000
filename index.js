@@ -12,6 +12,7 @@ const theBeatlesPlay = (musicians, instruments) => {
 const johnLennonFacts = (facts) => {
   arrFacts = [];
   while (i < facts.length) {
-    arr
+    arrFacts.push(`${facts[i]}!!!`)
   }
+  return arrFacts
 }
