@@ -23,7 +23,7 @@ const johnLennonFacts = (facts) => {
 const iLoveTheBeatles = () => {
   let beatles = [];
   do {
-  cupsAdded++
+    beatles.push('I love the Beatles!')
 } while (cupsOfSugarNeeded > cupsAdded);
 
 console.log(cupsAdded)
