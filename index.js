@@ -27,5 +27,5 @@ const iLoveTheBeatles = () => {
     beatles.push('I love the Beatles!')
 } while (i < 15);
 
-console.log(cupsAdded)
+return beatles
 }
