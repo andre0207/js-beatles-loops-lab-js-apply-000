@@ -12,7 +12,7 @@ const theBeatlesPlay = (musicians, instruments) => {
 const johnLennonFacts = (array) => {
   let i = 0
   arrFacts = [];
-  while (i < facts.length) {
+  while (i < array.length) {
     arrFacts.push(`${facts[i]}!!!`)
     i++
   }
