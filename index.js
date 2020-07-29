@@ -22,6 +22,7 @@ const johnLennonFacts = (facts) => {
 
 const iLoveTheBeatles = () => {
   let beatles = [];
+  let i = 0
   do {
     beatles.push('I love the Beatles!')
 } while (cupsOfSugarNeeded > cupsAdded);
