@@ -21,10 +21,10 @@ const johnLennonFacts = (facts) => {
 }
 
 const iLoveTheBeatles = () => {
-  
+  let beatles = [];
   do {
   cupsAdded++
-} while ( cupsOfSugarNeeded > cupsAdded);
+} while (cupsOfSugarNeeded > cupsAdded);
 
 console.log(cupsAdded)
 }
