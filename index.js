@@ -14,5 +14,6 @@ const johnLennonFacts = (facts) => {
   while (i < facts.length) {
     arrFacts.push(`${facts[i]}!!!`)
   }
+  
   return arrFacts
 }
