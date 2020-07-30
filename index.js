@@ -22,7 +22,6 @@ const johnLennonFacts = (facts) => {
 
 const iLoveTheBeatles = (num) => {
   let beatles = [];
-  let i = 0;
   
   do {
     beatles.push('I love the Beatles!')
