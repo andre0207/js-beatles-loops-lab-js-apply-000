@@ -24,6 +24,7 @@ const iLoveTheBeatles = (num) => {
   let beatles = [];
   
   do {
+    num++
     beatles.push('I love the Beatles!')
     
     
